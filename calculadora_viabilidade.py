@@ -30,7 +30,7 @@ def calcular_tir(investimento_inicial: float, fluxos_de_caixa: list[float]) -> f
     return tir
 
 
-# ADICIONADO: A nova e poderosa função de Simulação de Monte Carlo
+# ADICIONADO: A nova função de Simulação de Monte Carlo
 def rodar_simulacao_monte_carlo(
         tma: float,
         investimento_inicial: float,
