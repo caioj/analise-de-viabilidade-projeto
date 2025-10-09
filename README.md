@@ -58,27 +58,3 @@ O coração deste projeto são as métricas financeiras. Aqui está uma explica�
 * **Cálculos Financeiros e Estatísticos:** NumPy, NumPy-Financial
 * **Visualização de Dados:** Matplotlib
 
-## 🚀 Como Executar o Projeto Localmente
-
-1.  Clone o repositório:
-    ```bash
-    git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
-    cd SEU-REPOSITORIO
-    ```
-2.  Crie e ative um ambiente virtual:
-    ```bash
-    python -m venv venv
-    # Windows
-    .\venv\Scripts\activate
-    # macOS / Linux
-    source venv/bin/activate
-    ```
-3.  Instale as dependências:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4.  Execute a aplicação Streamlit:
-    ```bash
-    streamlit run app.py
-    ```
-5.  A aplicação abrirá automaticamente no seu navegador!
